@@ -39,6 +39,19 @@
         "opinion_id": 10755668
     },
     {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Polecam",
+        "stars": 5.0,
+        "content": "fajnie chodzą i nie dają mi spokoju i emaile wysyłają cały czas więc oceniam by mi dali spokój.",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-04-01 13:15:51",
+        "purchase_date": "2020-03-01 12:05:05",
+        "opinion_id": 12032505
+    },
+    {
         "author": "Marek",
         "recommendation": "Polecam",
         "stars": 5.0,
@@ -55,14 +68,40 @@
         "author": "Użytkownik Ceneo",
         "recommendation": "Polecam",
         "stars": 5.0,
-        "content": "Najlepszy obecnue tego typu produkt na rynku",
+        "content": "Bardzo ładne słuchawki, super dźwięk jestem bardzo zadowolona. 👌",
         "cons": null,
         "pros": null,
         "useful": 0,
         "useless": 0,
-        "opinion_date": "2020-01-29 11:42:08",
-        "purchase_date": "2020-01-24 10:49:31",
-        "opinion_id": 11658306
+        "opinion_date": "2020-04-16 14:11:22",
+        "purchase_date": "2020-04-14 09:19:29",
+        "opinion_id": 12165034
+    },
+    {
+        "author": "Grzegorz",
+        "recommendation": "Polecam",
+        "stars": 5.0,
+        "content": "Super produkt w rozsądnej cenie",
+        "cons": null,
+        "pros": "długi czas działania, dobrze się trzymają w uchu, genialny bass, rewelacyjna jakość rozmów, trochę niewygodne na dłużej w uszach, wygląd, wygoda używania",
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2019-12-22 14:13:06",
+        "purchase_date": "2019-11-21 20:11:09",
+        "opinion_id": 11472054
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Polecam",
+        "stars": 5.0,
+        "content": "ładne, praktyczne, super jakość",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-01-26 16:04:39",
+        "purchase_date": "2020-01-08 15:04:30",
+        "opinion_id": 11643534
     },
     {
         "author": "Jacek",
@@ -76,6 +115,19 @@
         "opinion_date": "2019-09-12 11:06:02",
         "purchase_date": "2019-09-10 14:24:47",
         "opinion_id": 11032569
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Nie polecam",
+        "stars": 0.5,
+        "content": "brak było kabelka - nadal się nie mogę doprosić",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-02-29 15:53:40",
+        "purchase_date": "2020-01-29 20:19:26",
+        "opinion_id": 11827503
     },
     {
         "author": "Dasik",
@@ -115,19 +167,6 @@
         "opinion_date": "2019-05-15 10:45:44",
         "purchase_date": null,
         "opinion_id": 10524813
-    },
-    {
-        "author": "Użytkownik Ceneo",
-        "recommendation": "Nie polecam",
-        "stars": 2.0,
-        "content": "Produkt jeszcze nie przyszedł",
-        "cons": null,
-        "pros": null,
-        "useful": 0,
-        "useless": 0,
-        "opinion_date": "2020-04-18 10:53:52",
-        "purchase_date": "2020-04-14 13:27:12",
-        "opinion_id": 12185369
     },
     {
         "author": "Rafał",
@@ -237,19 +276,6 @@
         "author": "Użytkownik Ceneo",
         "recommendation": "Polecam",
         "stars": 5.0,
-        "content": "fajnie chodzą i nie dają mi spokoju i emaile wysyłają cały czas więc oceniam by mi dali spokój.",
-        "cons": null,
-        "pros": null,
-        "useful": 0,
-        "useless": 0,
-        "opinion_date": "2020-04-01 13:15:51",
-        "purchase_date": "2020-03-01 12:05:05",
-        "opinion_id": 12032505
-    },
-    {
-        "author": "Użytkownik Ceneo",
-        "recommendation": "Polecam",
-        "stars": 5.0,
         "content": "Bezproblemowa łączność z innymi urządzeniami, świetna jakość dźwięku oraz doskonały mikrofon.",
         "cons": null,
         "pros": null,
@@ -284,19 +310,6 @@
         "opinion_date": "2019-11-08 06:51:33",
         "purchase_date": "2019-10-08 07:17:51",
         "opinion_id": 11250795
-    },
-    {
-        "author": "Użytkownik Ceneo",
-        "recommendation": "Polecam",
-        "stars": 5.0,
-        "content": "Bardzo ładne słuchawki, super dźwięk jestem bardzo zadowolona. 👌",
-        "cons": null,
-        "pros": null,
-        "useful": 0,
-        "useless": 0,
-        "opinion_date": "2020-04-16 14:11:22",
-        "purchase_date": "2020-04-14 09:19:29",
-        "opinion_id": 12165034
     },
     {
         "author": "Krystyna",
@@ -366,6 +379,19 @@
     {
         "author": "Użytkownik Ceneo",
         "recommendation": "Polecam",
+        "stars": 5.0,
+        "content": "Najlepszy obecnue tego typu produkt na rynku",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-01-29 11:42:08",
+        "purchase_date": "2020-01-24 10:49:31",
+        "opinion_id": 11658306
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Polecam",
         "stars": 4.5,
         "content": "Jaes ok ale moglo by byc lepiej z dzwiekin.t",
         "cons": null,
@@ -375,19 +401,6 @@
         "opinion_date": "2020-02-13 22:09:55",
         "purchase_date": "2020-02-11 09:01:59",
         "opinion_id": 11741510
-    },
-    {
-        "author": "Użytkownik Ceneo",
-        "recommendation": "Nie polecam",
-        "stars": 0.5,
-        "content": "brak było kabelka - nadal się nie mogę doprosić",
-        "cons": null,
-        "pros": null,
-        "useful": 0,
-        "useless": 0,
-        "opinion_date": "2020-02-29 15:53:40",
-        "purchase_date": "2020-01-29 20:19:26",
-        "opinion_id": 11827503
     },
     {
         "author": "stoper",
@@ -429,19 +442,6 @@
         "opinion_id": 11527316
     },
     {
-        "author": "Grzegorz",
-        "recommendation": "Polecam",
-        "stars": 5.0,
-        "content": "Super produkt w rozsądnej cenie",
-        "cons": null,
-        "pros": "długi czas działania, dobrze się trzymają w uchu, genialny bass, rewelacyjna jakość rozmów, trochę niewygodne na dłużej w uszach, wygląd, wygoda używania",
-        "useful": 0,
-        "useless": 0,
-        "opinion_date": "2019-12-22 14:13:06",
-        "purchase_date": "2019-11-21 20:11:09",
-        "opinion_id": 11472054
-    },
-    {
         "author": "Użytkownik Ceneo",
         "recommendation": "Polecam",
         "stars": 5.0,
@@ -453,19 +453,6 @@
         "opinion_date": "2020-02-18 11:30:53",
         "purchase_date": "2020-02-13 08:15:53",
         "opinion_id": 11762082
-    },
-    {
-        "author": "Użytkownik Ceneo",
-        "recommendation": "Polecam",
-        "stars": 5.0,
-        "content": "ładne, praktyczne, super jakość",
-        "cons": null,
-        "pros": null,
-        "useful": 0,
-        "useless": 0,
-        "opinion_date": "2020-01-26 16:04:39",
-        "purchase_date": "2020-01-08 15:04:30",
-        "opinion_id": 11643534
     },
     {
         "author": "Iwona",
@@ -518,6 +505,19 @@
         "opinion_date": "2020-02-27 19:30:18",
         "purchase_date": "2020-02-17 12:03:48",
         "opinion_id": 11817020
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Nie polecam",
+        "stars": 2.0,
+        "content": "Produkt jeszcze nie przyszedł",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-04-18 10:53:52",
+        "purchase_date": "2020-04-14 13:27:12",
+        "opinion_id": 12185369
     },
     {
         "author": "Piotr",
